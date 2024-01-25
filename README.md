@@ -1,5 +1,5 @@
-<h1>Hi 👋, I'm Dhruval Mevada</h1>
-<h3>A passionate frontend developer from India</h3>
+<h1>Dhruval Mevada</h1>
+<h3>threat analyst at brandsek I empower corporations with exceptional UI/UX design and web development prowess | Freelancer | UI/UX Specialist | Eager to Dive into Cybersecurity</h3>
 
 - 🔭 I’m currently working on **Source code leakage**
 

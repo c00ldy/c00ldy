@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Source code leakage**
 
-- 📫 How to reach me **mevadadhruval7529@gmail.com**
+- 📫 Contact Information: **mevadadhruval7529@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://www.figma.com/file/AUfmiohLVn1rpuzzRXPoeT/Resume_dhruval?type=design&node-id=0%3A1&mode=design&t=ULOQwNmoZMSH7F9i-1)
+- 📄 Professional Experience Overview - [Resume Available upon Request](https://www.figma.com/file/AUfmiohLVn1rpuzzRXPoeT/Resume_dhruval?type=design&node-id=0%3A1&mode=design&t=ULOQwNmoZMSH7F9i-1)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

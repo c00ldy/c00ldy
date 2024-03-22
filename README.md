@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Brandsek Malaysia**
 
-- 📫 Contact Information: **mevadadhruval7529@gmail.com**
+- 📫 Contact Information: **work.dhruvalmevada@gmail.com*
 
 - 📄 Professional Experience Overview - [Resume](https://www.figma.com/file/AUfmiohLVn1rpuzzRXPoeT/Resume_dhruval?type=design&node-id=0%3A1&mode=design&t=ULOQwNmoZMSH7F9i-1)
 

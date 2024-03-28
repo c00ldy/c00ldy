@@ -5,7 +5,7 @@
 
 - 📫 Contact Information: **work.dhruvalmevada@gmail.com**
 
-- 📄 Professional Experience Overview - [Resume](https://drive.google.com/file/d/1livfhcsL5sCKmQMAqt0sQregUDv1Oghv/view?usp=sharing)
+- 📄 Professional Experience Overview - [Resume](https://drive.google.com/file/d/1JK__A-rW2EINQbWkVA1ypsTe_A-CZP3T/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -5,7 +5,7 @@
 
 - 📫 Contact Information: **work.dhruvalmevada@gmail.com**
 
-- 📄 Professional Experience Overview - [Resume](https://www.figma.com/file/AUfmiohLVn1rpuzzRXPoeT/Resume_dhruval?type=design&node-id=0%3A1&mode=design&t=ULOQwNmoZMSH7F9i-1)
+- 📄 Professional Experience Overview - [Resume]([https://www.figma.com/file/AUfmiohLVn1rpuzzRXPoeT/Resume_dhruval?type=design&node-id=0%3A1&mode=design&t=ULOQwNmoZMSH7F9i-1](https://drive.google.com/file/d/1livfhcsL5sCKmQMAqt0sQregUDv1Oghv/view?usp=sharing))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

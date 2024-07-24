@@ -7,6 +7,13 @@
 
 - 📄 Professional Experience Overview - [Resume](https://drive.google.com/file/d/1JK__A-rW2EINQbWkVA1ypsTe_A-CZP3T/view?usp=sharing)
 
+## 🌐 Recent Project's:
+☁️ Weather app : ``` https://c00ldy.github.io/Weather_App/ ``` <br>
+🕸️ IfYouKnow : ``` https://c00ldy.github.io/IFYOUKNOIW_PROJECT/ ``` <br>
+📽️ Netflix Clone : ``` https://c00ldy.github.io/NETFLIX_CLONE/ ```
+
+
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/2A73WdAeYP) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/ig_dhruval/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dhruvalmevada/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/dhruvalyt) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@c0ldy07) 
 

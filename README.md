@@ -1,7 +1,1 @@
-<h1>Dhruval Mevada</h1>
-<h3> OSINT | CTI | threat intel </h3>
-
-- 🔭 Threat analyst at **Brandsek**
-
-- 📫 Contact Information: **work.dhruvalmevada@gmail.com**
-
+<h1>dhruval</h1>
